@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+psycopg2-binary
+sqlalchemy
+jinja2
+pandas
+htmx
+transformers
+onnxruntime
+psycopg2
+sys
